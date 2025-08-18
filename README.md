@@ -1,22 +1,20 @@
-Shas Photography — Link Hub Website
+🖼️ How to Explore Shas Photography
 
-A professional one-page website for **Shas Photography**, designed to showcase social media links in a modern, aesthetic black-and-gold theme. Built with simple HTML & CSS, optimized for mobile and desktop viewing.
+Browse our photography portfolio online and see every smile we’ve captured.
 
-Features
-- Responsive design (works on all screen sizes)
-- Clean, modern black & gold theme
-- Social media links (Instagram, Facebook, YouTube, WhatsApp, Email)
-- Easy to customize (just edit the HTML)
-- Lightweight — no frameworks required
+Connect with us directly through email, WhatsApp, or social media.
 
-About
-Shas Photography specializes in **Photography & Videography** for weddings, events, and special occasions. This site acts as a central hub for connecting with clients across different platforms.
+Check out our Google Reviews to see what our clients say.
 
-How to Use
-1. Clone or download this repository.
-2. Replace placeholder links with your actual social media URLs.
-3. Replace `avatar.jpg` with your logo or profile image.
-4. Open `index.html` in any browser (Chrome recommended).
+📬 Contact Us (Business Only)
+Platform	Contact
+✉️ Email	contact@yourbusiness.com
+📞 WhatsApp	+60 12-345 6789
+🌐 Website	www.yourbusiness.com
+📘 Facebook	Shas Photography
+📸 Instagram	@shas_photography
+▶️ YouTube	Shas Photography
+⭐ Google Review	Leave a Review
+⚠️ Note
 
----
-© 2025 Shas Photography · All Rights Reserved
+Only business contact info is shown—no personal emails or phone numbers.
