@@ -30,22 +30,6 @@ We specialize in professional photography services, ensuring every smile and mem
 
 ---
 
-## ⚙️ How to Use
-- Clone the repository or download it to view locally  
-- Open `index.html` in your browser to explore the portfolio  
-- Deploy on GitHub Pages or any hosting platform to share online  
-
-
-# Clone the repository
-git clone https://github.com/yourusername/shas-photography.git
-
-# Navigate to the project folder
-cd shas-photography
-
-# Open index.html in your browser
-
----
-
 🤝 Contributing
 
 We welcome contributions and suggestions!
