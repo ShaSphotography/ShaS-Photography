@@ -6,7 +6,7 @@
 
 ## 🌟 About Us
 Shas Photography is dedicated to turning moments into timeless memories.  
-We specialize in professional photography services, ensuring every smile and memory is beautifully captured.  
+We specialize in professional photography services, ensuring every smile and memory is beautifully captured.
 
 ---
 
@@ -35,7 +35,7 @@ We specialize in professional photography services, ensuring every smile and mem
 - Open `index.html` in your browser to explore the portfolio  
 - Deploy on GitHub Pages or any hosting platform to share online  
 
-```bash
+
 # Clone the repository
 git clone https://github.com/yourusername/shas-photography.git
 
@@ -43,6 +43,8 @@ git clone https://github.com/yourusername/shas-photography.git
 cd shas-photography
 
 # Open index.html in your browser
+
+---
 
 🤝 Contributing
 
@@ -52,10 +54,12 @@ Open an issue if you find a problem or have ideas
 
 Submit a pull request to improve the project
 
+⚠️ Note: Contributions should respect the privacy-friendly license. Do not copy or redistribute content without permission.
+
 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project uses a custom privacy-friendly license.
+You may view the website and its content for reference purposes only.
+You may not copy, modify, distribute, or use it commercially without explicit permission.
 
-⚠️ Note
-
-Only business contact info is included. No personal emails or personal phone numbers are public.
+See the LICENSE file for full details.
