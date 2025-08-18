@@ -9,7 +9,7 @@
       font-family: 'Poppins', sans-serif;
       margin: 0;
       padding: 0;
-      background: #1a1a1a;
+      background: #1a1a1a; /* Dark grey background */
       color: white;
       text-align: center;
     }
@@ -17,14 +17,14 @@
       padding: 50px 20px 20px;
     }
     header h1 {
-      font-size: 1rem;
-      margin-top: 3;
+      font-size: 3rem;
+      margin-bottom: 1px;
       animation: fadeInDown 1.2s ease-in-out;
     }
     header p {
       font-size: 1.2rem;
       color: #ccc;
-      margin-top: 0;
+      margin-top: 1px;
       animation: fadeInUp 1.5s ease-in-out;
     }
     .links {
@@ -32,16 +32,16 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
+      justify-content: center; /* Center horizontally */
       gap: 15px;
     }
     .links a {
       display: flex;
-      align-items: center;
-      justify-content: flex-start;
-      gap: 15px;
-      width: 120px;
-      padding: 10px 80px;
+      align-items: center; /* vertically center icon and text */
+      justify-content: flex-start; /* icon on left, text next */
+      gap: 15px; /* space between icon and text */
+      width: 120px; /* box width */
+      padding: 10px 80px; /* padding for icon and text */
       background: rgba(255, 255, 255, 0.08);
       border-radius: 8px;
       text-decoration: none;
@@ -53,7 +53,7 @@
       overflow: hidden;
     }
     .links a:hover {
-      background: linear-gradient(135deg, #FFD700, #FFA500);
+      background: linear-gradient(135deg, #FFD700, #FFA500); /* Gradient Gold */
       color: black;
       transform: translateY(-5px) scale(1.05);
       box-shadow: 0px 8px 25px rgba(255, 215, 0, 0.6);
@@ -74,9 +74,20 @@
       color: #aaa;
       animation: fadeIn 2s ease-in-out;
     }
-    @keyframes fadeInDown { from { opacity: 0; transform: translateY(-30px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes fadeInUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+    /* Animations */
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
   </style>
 </head>
 <body>
@@ -110,8 +121,8 @@
       <span>WhatsApp</span>
     </a>
 
-    <!-- Email (Business Only) -->
-    <a href="mailto:contact@yourbusiness.com" target="_blank">
+    <!-- Email -->
+    <a href="https://mail.google.com/mail/?view=cm&to=lanx05@gmail.com" target="_blank">
       <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24"><path d="M12 13.065L.015 6H23.985L12 13.065zM12 15.169L.015 8.104V18c0 1.104.895 2 2 2h19.97c1.105 0 2-.896 2-2V8.104L12 15.169z"/></svg>
       <span>Email</span>
     </a>
@@ -128,7 +139,3 @@
   </footer>
 </body>
 </html>
-
-
-
-
