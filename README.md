@@ -24,7 +24,7 @@ We specialize in professional photography services, ensuring every smile and mem
 [![Website](https://img.shields.io/badge/Website-www.yourbusiness.com-orange?style=for-the-badge&logo=web&logoColor=white)](https://www.yourbusiness.com)  
 
 [![Facebook](https://img.shields.io/badge/Facebook-Shas%20Photography-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shasphotography)  
-[![Instagram](https://img.shields.io/badge/Instagram-@shas_photography-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shas_photography)  
+[![Instagram](https://instagram.com/shas_photography](https://www.instagram.com/shasciniphotography?igsh=MTU1NzZoZ3g0ZzRvOA==))  
 [![YouTube](https://img.shields.io/badge/YouTube-Shas%20Photography-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shasphotography)  
 [![Google Review](https://img.shields.io/badge/Google%20Review-Leave%20a%20Review-yellow?style=for-the-badge&logo=google&logoColor=black)](https://g.page/r/YOUR-GOOGLE-REVIEW-LINK/review)
 
